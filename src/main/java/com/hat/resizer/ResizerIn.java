@@ -39,7 +39,7 @@ public class ResizerIn {
 		this.targetWidth = targetWidth;
 		this.targetHeight = targetHeight;
 	}
-
+	
 	public String getResizedSuffixName() {
 		return resizedSuffixName;
 	}
